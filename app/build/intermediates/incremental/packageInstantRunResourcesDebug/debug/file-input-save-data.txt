@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Jan 15 13:23:47 CST 2018
+1.base=/Users/libaocheng/AI/java/demo/app/build/intermediates/assets/debug
+2.path=mobilenet_quant_v1_224.tflite
+0.baseType=DIRECTORY
+2.base=/Users/libaocheng/AI/java/demo/app/build/intermediates/assets/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=BUILD
+0.set=ASSET
+0.base=/Users/libaocheng/AI/java/demo/app/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=labels.txt

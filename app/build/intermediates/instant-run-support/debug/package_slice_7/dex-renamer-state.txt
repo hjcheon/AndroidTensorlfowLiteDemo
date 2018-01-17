@@ -1,0 +1,4 @@
+#Mon Jan 15 13:23:52 CST 2018
+base.0=/Users/libaocheng/AI/java/demo/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

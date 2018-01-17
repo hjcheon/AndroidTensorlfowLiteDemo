@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:18:1-42:12
+MERGED from [com.android.support:design:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/179ffb3760bece94322dbe2d0cad2cfc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/124cf0cd08c71feab5374471e2a329e7/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/86b45d6642b8f8b4bf6ae67e03426881/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/5adc8ea266ede13cca52fe470fa43113/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1b96a727860a996498cc45fbba1e56bd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/39fd93bdbf19751f35b12dfe33aff87c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/16850035b79cbfcde610999c918df16a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/b196e218c9399516b6b3311a2772dbd1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/257be36d8251d6ae9b11fae728e6e5c8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/d52c2aed0e3e0bc93d2c4c1813966c53/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/61c2c970d99cbad9c1afdfdd576425d4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/6667bd855aec22ad686feddd6a0822bc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/fdec4e6303f5f70ad9f2e060184da869/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/c5b96fcae542ccf0cce7b9c0cd03afd7/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/1b7850bc99c0e5b917485cb7fb57f50a/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support:design:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/179ffb3760bece94322dbe2d0cad2cfc/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/179ffb3760bece94322dbe2d0cad2cfc/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/124cf0cd08c71feab5374471e2a329e7/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/124cf0cd08c71feab5374471e2a329e7/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/86b45d6642b8f8b4bf6ae67e03426881/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/86b45d6642b8f8b4bf6ae67e03426881/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/5adc8ea266ede13cca52fe470fa43113/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/5adc8ea266ede13cca52fe470fa43113/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1b96a727860a996498cc45fbba1e56bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1b96a727860a996498cc45fbba1e56bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/39fd93bdbf19751f35b12dfe33aff87c/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/39fd93bdbf19751f35b12dfe33aff87c/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/16850035b79cbfcde610999c918df16a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/16850035b79cbfcde610999c918df16a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/b196e218c9399516b6b3311a2772dbd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/b196e218c9399516b6b3311a2772dbd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/257be36d8251d6ae9b11fae728e6e5c8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/257be36d8251d6ae9b11fae728e6e5c8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/d52c2aed0e3e0bc93d2c4c1813966c53/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/d52c2aed0e3e0bc93d2c4c1813966c53/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/61c2c970d99cbad9c1afdfdd576425d4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/61c2c970d99cbad9c1afdfdd576425d4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/6667bd855aec22ad686feddd6a0822bc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/6667bd855aec22ad686feddd6a0822bc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/fdec4e6303f5f70ad9f2e060184da869/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/fdec4e6303f5f70ad9f2e060184da869/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/c5b96fcae542ccf0cce7b9c0cd03afd7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/c5b96fcae542ccf0cce7b9c0cd03afd7/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/1b7850bc99c0e5b917485cb7fb57f50a/AndroidManifest.xml:4:4-45
+MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/1b7850bc99c0e5b917485cb7fb57f50a/AndroidManifest.xml:4:4-45
+INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:26:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/179ffb3760bece94322dbe2d0cad2cfc/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:26:5-44
+		INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml
+		MERGED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:28:5-40:19
+MERGED from [com.android.support:design:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/179ffb3760bece94322dbe2d0cad2cfc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/179ffb3760bece94322dbe2d0cad2cfc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/124cf0cd08c71feab5374471e2a329e7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/124cf0cd08c71feab5374471e2a329e7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/86b45d6642b8f8b4bf6ae67e03426881/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/86b45d6642b8f8b4bf6ae67e03426881/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/5adc8ea266ede13cca52fe470fa43113/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/5adc8ea266ede13cca52fe470fa43113/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1b96a727860a996498cc45fbba1e56bd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1b96a727860a996498cc45fbba1e56bd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/39fd93bdbf19751f35b12dfe33aff87c/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/39fd93bdbf19751f35b12dfe33aff87c/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/b196e218c9399516b6b3311a2772dbd1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/b196e218c9399516b6b3311a2772dbd1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/257be36d8251d6ae9b11fae728e6e5c8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/257be36d8251d6ae9b11fae728e6e5c8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/d52c2aed0e3e0bc93d2c4c1813966c53/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/d52c2aed0e3e0bc93d2c4c1813966c53/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/61c2c970d99cbad9c1afdfdd576425d4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/61c2c970d99cbad9c1afdfdd576425d4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/6667bd855aec22ad686feddd6a0822bc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/6667bd855aec22ad686feddd6a0822bc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/fdec4e6303f5f70ad9f2e060184da869/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/fdec4e6303f5f70ad9f2e060184da869/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/c5b96fcae542ccf0cce7b9c0cd03afd7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/c5b96fcae542ccf0cce7b9c0cd03afd7/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/1b7850bc99c0e5b917485cb7fb57f50a/AndroidManifest.xml:4:45-5:18
+MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /Users/libaocheng/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/1b7850bc99c0e5b917485cb7fb57f50a/AndroidManifest.xml:4:45-5:18
+	android:label
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:33:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/libaocheng/AI/java/demo/app/src/main/AndroidManifest.xml:37:27-74
